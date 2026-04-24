@@ -1,0 +1,30 @@
+{
+  "RZCD66_1f_S02_20230613_105549": {
+    "whisker_roi": {
+      "x_min": 110,
+      "y_min": 192,
+      "x_max": 261,
+      "y_max": 369
+    },
+    "background_roi": {
+      "x_min": 543,
+      "y_min": 427,
+      "x_max": 624,
+      "y_max": 466
+    }
+  },
+  "RZCD69_1e_S02_20230613_095455": {
+    "whisker_roi": {
+      "x_min": 83,
+      "y_min": 192,
+      "x_max": 234,
+      "y_max": 369
+    },
+    "background_roi": {
+      "x_min": 543,
+      "y_min": 427,
+      "x_max": 624,
+      "y_max": 466
+    }
+  }
+}

@@ -1,0 +1,14 @@
+[project]
+name = "shabana-whisking"
+version = "0.1.0"
+description = "Whisking bout analysis via motion energy"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyterlab>=4.0",
+    "notebook>=7.0",
+    "opencv-python",
+    "scipy",
+    "numpy",
+    "matplotlib",
+    "tqdm",
+]
