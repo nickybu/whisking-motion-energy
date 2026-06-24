@@ -14,6 +14,11 @@ Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then:
 uv run jupyter lab
 ```
 
+then go to the project directory and install dependencies using:
+```bash
+uv sync
+```
+
 This automatically creates a virtual environment, installs all dependencies, and launches JupyterLab.
 
 ## Project structure
